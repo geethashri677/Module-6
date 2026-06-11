@@ -1,4 +1,3 @@
-# DATE: 20.10.25
 
 # 🐍 Python OOP: Abstract Class & Method Example
 
